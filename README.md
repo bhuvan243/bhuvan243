@@ -1,63 +1,72 @@
-<h2 align="left">Hi 👋! My name is Bhuvaneshwaran and I'm a Frontend Developer</h2>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<!-- Header -->
+<h1 align="center">Hey there, I'm Bhuvaneshwaran Ramesh 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan243&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan243" /> </p>
+<p align="center">
+  <b>MERN Stack Developer &nbsp;·&nbsp; Freelancer &nbsp;·&nbsp; Chennai, India</b>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuvan243" alt="bhuvan243" /></a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Freelance-Available-1D9E75?style=flat-square" />
+  <img src="https://img.shields.io/badge/Chennai-TN%2C%20India-378ADD?style=flat-square" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 🔭 I’m currently working on [Personal Finance Tracker](https://personal-finance-tracker-liart.vercel.app/)
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **MERN Stack Development**
+Passionate **MERN Stack Developer** who loves building clean, scalable full-stack web applications.
+From crafting responsive UIs with **React** to architecting robust REST APIs with **Node.js & Express**,
+I bring ideas to life end-to-end. Available for **freelance collaborations** — let's build something great together.
 
-- 👨‍💻 All of my projects are available at [https://github.com/bhuvan243?tab=repositories](https://github.com/bhuvan243?tab=repositories)
+---
 
-- 💬 Ask me about **React, Redux, Javascript, CSS, HTML**
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **bhuvan243@gmail.com**
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/bhuvaneshwaran-ramesh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhuvan243&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan243&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="mailto:bhuvanbr.1116@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto: bhuvan243@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://linkedin.com/in/bhuvaneshwaran-ramesh">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/bhuvan__222/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-</div>
-
-<p><img align="left" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvan243&show_icons=true&locale=en&layout=compact" alt="bhuvan243" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuvan243&show_icons=true&locale=en" alt="bhuvan243" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvan243&" alt="bhuvan243" /></p>
+---
